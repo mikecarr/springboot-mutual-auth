@@ -1,0 +1,4 @@
+
+
+GET https://localhost:8443/secured
+Authorization: Digest user password
